@@ -1,0 +1,26 @@
+{
+  "city": "Волжский",
+  "cityForms": {
+    "name": "Волжский",
+    "prepositional": "Волжском",
+    "genitive": "Волжского"
+  },
+  "region": "Волгоградская область",
+  "domain": "vershina134.ru",
+  "pricingGroup": "ordinary",
+  "rates": [
+    150,
+    230,
+    370,
+    450,
+    280,
+    410,
+    500
+  ],
+  "minimumVisit": 6000,
+  "metrikaId": 114334221,
+  "webmasterVerification": "cb2c123bdaa9ed21",
+  "heroPath": "images/hero-vershina134.webp",
+  "ogPath": "images/og-vershina134.jpg",
+  "heroLandmark": "Картинная галерея Волжского — здание старой школы"
+}
